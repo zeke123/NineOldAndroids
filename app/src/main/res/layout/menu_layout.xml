@@ -9,7 +9,6 @@
         style="@style/MenuStyle"
         android:background="@mipmap/menu"/>
 
-
     <Button
         android:id="@+id/item1"
         style="@style/MenuItemStyle"
